@@ -1,0 +1,6 @@
+{
+  "name": "Muscle Max Gym",
+  "description": "Gym membership, attendance, fee collection, WhatsApp reminders, and accounts management for Muscle Max Gym.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
